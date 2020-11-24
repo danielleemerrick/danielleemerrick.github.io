@@ -8,4 +8,8 @@
     padding: 14px 16px;
     text-decoration:none;
     font-size:20px;
+    color:antiquewhite;
+}
+.topnav a :visited {
+    color:antiquewhite;
 }
