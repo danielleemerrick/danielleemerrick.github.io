@@ -55,16 +55,22 @@
     border:dashed;
     border-color:bisque;
     height:500px;
+    float:left;
+    margin:10px;
 }
 #AB2 {
     width: 25%;
     border: dashed;
     border-color: bisque;
     height: 500px;
+    float:left;
+    margin:10px;
 }
 #AB3 {
     width: 25%;
     border: dashed;
     border-color: bisque;
     height: 500px;
+    float:left;
+    margin:10px;
 }
