@@ -30,6 +30,8 @@
 }
 #IntroInfo {
     font-family:'Marvel', sans-serif;
+    padding:0px;
+    margin:0px;
 }
 #Purpose {
     font-family: 'Bad Script', cursive;
@@ -40,6 +42,10 @@
 }
 #PurposeInfo {
     font-family: 'Marvel', sans-serif;
+}
+#Info {
+    border:2px solid;
+    border-color:bisque;
 }
 #AboutMeTitle {
     font-family: 'Bad Script', cursive;
