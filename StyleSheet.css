@@ -14,7 +14,7 @@
 .topnav a :visited {
     color:antiquewhite;
 }
-#Headshot {
+img {
     width:25%;
     height:500px;
     float:left;
@@ -43,29 +43,10 @@
 #PurposeInfo {
     font-family: 'Marvel', sans-serif;
 }
-#Info {
-    border:2px solid;
-    border-color:bisque;
-}
 #AboutMeTitle {
     font-family: 'Bad Script', cursive;
     background-color: white;
 }
 #AboutMeInfo {
     font-family: 'Marvel', sans-serif;
-}
-#AB1 {
-    width:33%;
-    height:500px;
-    float:left;
-}
-#AB2 {
-    width: 33%;
-    height: 500px;
-    float:left;
-}
-#AB3 {
-    width: 33%;
-    height: 500px;
-    float:left;
 }
