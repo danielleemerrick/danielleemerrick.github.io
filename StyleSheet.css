@@ -27,6 +27,7 @@ img {
     border:2px solid;
     background-color:white;
     border-color:bisque;
+    width:75%;
 }
 #IntroInfo {
     font-family:'Marvel', sans-serif;
