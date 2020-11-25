@@ -17,4 +17,8 @@
 img {
     width:25%;
     height:500px;
+    float:left;
+}
+#Intro {
+    font-family:'Bad Script', cursive;
 }
