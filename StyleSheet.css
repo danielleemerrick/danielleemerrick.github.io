@@ -1,5 +1,5 @@
 .topnav {
-    background-color:burlywood;
+    background-color:bisque;
     overflow:hidden;
 }
 .topnav a {
@@ -21,4 +21,8 @@ img {
 }
 #Intro {
     font-family:'Bad Script', cursive;
+    border:2px solid;
+    background-color:white;
+    border-color:bisque;
+    padding:5px;
 }
