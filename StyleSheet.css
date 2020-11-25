@@ -18,6 +18,7 @@ img {
     width:25%;
     height:500px;
     float:left;
+    margin:10px;
 }
 #Intro {
     font-family:'Bad Script', cursive;
@@ -26,4 +27,19 @@ img {
     border-color:bisque;
     padding:5px;
     margin:10px;
+    width:75%;
+}
+#IntroInfo {
+    font-family:'Marvel', sans-serif;
+}
+#Purpose {
+    font-family: 'Bad Script', cursive;
+    background-color: white;
+    border-color: bisque;
+    padding: 5px;
+    margin: 10px;
+    width: 75%;
+}
+#PurposeInfo {
+    font-family: 'Marvel', sans-serif;
 }
