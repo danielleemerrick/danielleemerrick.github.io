@@ -24,7 +24,6 @@
 }
 #Intro {
     font-family:'Bad Script', cursive;
-    border:2px solid;
     background-color:white;
     border-color:bisque;
     width:75%;
@@ -35,7 +34,6 @@
 #Purpose {
     font-family: 'Bad Script', cursive;
     background-color: white;
-    border-color: bisque;
     padding: 5px;
     margin: 10px;
     width: 75%;
