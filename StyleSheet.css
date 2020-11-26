@@ -15,28 +15,27 @@
     color:antiquewhite;
 }
 #Headshot {
-    width:50%;
+    width:45%;
     height:500px;
     float:left;
     margin:10px 10px 10px 0px;
     border:dashed;
     border-color:bisque;
 }
+#Writing {
+    width:50%;
+    float:left;
+}
 #Intro {
     font-family:'Bad Script', cursive;
     background-color:white;
-    border-color:bisque;
-    width:50%
 }
 #IntroInfo {
     font-family:'Marvel', sans-serif;
-    padding:0px;
-    margin:0px;
 }
 #Purpose {
     font-family: 'Bad Script', cursive;
     background-color: white;
-    width:50%;
 }
 #PurposeInfo {
     font-family: 'Marvel', sans-serif;
@@ -96,4 +95,7 @@
     height: 500px;
     float: right;
     margin: 10px;
+}
+ul {
+    list-style-type:none;
 }
