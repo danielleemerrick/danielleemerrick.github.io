@@ -15,7 +15,7 @@
     color:antiquewhite;
 }
 #Headshot {
-    width:25%;
+    width:50%;
     height:500px;
     float:left;
     margin:10px;
@@ -26,7 +26,7 @@
     font-family:'Bad Script', cursive;
     background-color:white;
     border-color:bisque;
-    width:75%;
+    width:50%;
 }
 #IntroInfo {
     font-family:'Marvel', sans-serif;
@@ -38,7 +38,7 @@
     background-color: white;
     padding: 5px;
     margin: 10px;
-    width: 75%;
+    width: 50%;
 }
 #PurposeInfo {
     font-family: 'Marvel', sans-serif;
