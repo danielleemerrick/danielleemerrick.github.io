@@ -18,7 +18,7 @@
     width:50%;
     height:500px;
     float:left;
-    margin:10px;
+    margin:10px 10px 10px 0px;
     border:dashed;
     border-color:bisque;
 }
@@ -26,6 +26,7 @@
     font-family:'Bad Script', cursive;
     background-color:white;
     border-color:bisque;
+    width:50%
 }
 #IntroInfo {
     font-family:'Marvel', sans-serif;
@@ -35,8 +36,7 @@
 #Purpose {
     font-family: 'Bad Script', cursive;
     background-color: white;
-    padding: 5px;
-    margin: 10px;
+    width:50%;
 }
 #PurposeInfo {
     font-family: 'Marvel', sans-serif;
