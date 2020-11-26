@@ -85,7 +85,7 @@
     border: dashed;
     border-color: bisque;
     height: 500px;
-    float: left;
+    float: right;
     margin: 10px;
 }
 #P2 {
@@ -93,6 +93,6 @@
     border: dashed;
     border-color: bisque;
     height: 500px;
-    float: left;
+    float: right;
     margin: 10px;
 }
