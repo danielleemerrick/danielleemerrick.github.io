@@ -86,15 +86,6 @@
     border-color: bisque;
     height: 500px;
     float: right;
-    margin: 10px;
-}
-#P2 {
-    width: 30%;
-    border: dashed;
-    border-color: bisque;
-    height: 500px;
-    float: right;
-    margin: 10px;
 }
 ul {
     list-style-type:none;
