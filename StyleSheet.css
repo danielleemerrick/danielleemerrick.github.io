@@ -75,13 +75,13 @@
     font-family: 'Bad Script', cursive;
     background-color: white;
     float:left;
-    width:33%;
+    width:30%;
 }
 #ProjectInfo {
     font-family: 'Marvel', sans-serif;
 }
 #P1 {
-    width: 33%;
+    width: 30%;
     border: dashed;
     border-color: bisque;
     height: 500px;
@@ -89,7 +89,7 @@
     margin: 10px;
 }
 #P2 {
-    width: 33%;
+    width: 30%;
     border: dashed;
     border-color: bisque;
     height: 500px;
