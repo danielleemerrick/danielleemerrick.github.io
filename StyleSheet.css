@@ -26,7 +26,6 @@
     font-family:'Bad Script', cursive;
     background-color:white;
     border-color:bisque;
-    width:50%;
 }
 #IntroInfo {
     font-family:'Marvel', sans-serif;
@@ -38,7 +37,6 @@
     background-color: white;
     padding: 5px;
     margin: 10px;
-    width: 50%;
 }
 #PurposeInfo {
     font-family: 'Marvel', sans-serif;
@@ -73,4 +71,28 @@
     height: 500px;
     float:left;
     margin:10px;
+}
+#Project {
+    font-family: 'Bad Script', cursive;
+    background-color: white;
+    float:left;
+}
+#ProjectInfo {
+    font-family: 'Marvel', sans-serif;
+}
+#P1 {
+    width: 33%;
+    border: dashed;
+    border-color: bisque;
+    height: 500px;
+    float: left;
+    margin: 10px;
+}
+#P2 {
+    width: 33%;
+    border: dashed;
+    border-color: bisque;
+    height: 500px;
+    float: left;
+    margin: 10px;
 }
