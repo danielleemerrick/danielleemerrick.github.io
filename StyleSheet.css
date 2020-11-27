@@ -23,10 +23,10 @@
     border-color:bisque;
 }
 #Writing {
-    width:50%;
     float:left;
     border:2px solid;
     border-color:bisque;
+    width:55%;
 }
 #Intro {
     font-family: 'Bad Script', cursive;
@@ -82,6 +82,7 @@
     background-color: white;
     float:left;
     width:30%;
+    text-align:right;
 }
 #ProjectInfo {
     font-family: 'Marvel', sans-serif;
