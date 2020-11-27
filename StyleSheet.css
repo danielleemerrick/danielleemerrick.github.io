@@ -88,7 +88,7 @@
     font-family: 'Marvel', sans-serif;
 }
 #P1 {
-    max-width: 30%;
+    max-width: 40%;
     border: dashed;
     border-color: bisque;
     height: 500px;
@@ -96,7 +96,7 @@
     margin:10px 0px 10px 10px;
 }
 #P2 {
-    max-width: 30%;
+    max-width: 40%;
     border: dashed;
     border-color: bisque;
     height: 500px;
@@ -112,7 +112,22 @@ ul {
     padding: 0px 0px 0px 10px;
     margin: 0px 0px 0px 10px;
 }
-
 #SocialInfo {
     font-family: 'Marvel', sans-serif;
+}
+#SS1 {
+    width: 35%;
+    border: dashed;
+    border-color: bisque;
+    height: 500px;
+    float: left;
+    margin: 10px 10px 10px 0px;
+}
+#SS2 {
+    width: 35%;
+    border: dashed;
+    border-color: bisque;
+    height: 500px;
+    float: left;
+    margin: 10px;
 }
