@@ -83,6 +83,7 @@
     background-color: white;
     width:20%;
     float:left;
+    text-align:left;
 }
 #ProjectInfo {
     font-family: 'Marvel', sans-serif;
@@ -93,7 +94,7 @@
     border-color: bisque;
     height: 500px;
     float: left;
-    margin: 10px 0px 10px 0px;
+    margin: 10px 0px 0px 0px;
 }
 ul {
     list-style-type:none;
