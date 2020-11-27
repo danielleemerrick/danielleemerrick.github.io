@@ -100,7 +100,7 @@
     border: dashed;
     border-color: bisque;
     height: 500px;
-    float: right;
+    float: left;
     margin: 10px;
 }
 ul {
