@@ -92,7 +92,7 @@
     border: dashed;
     border-color: bisque;
     height: 500px;
-    float: right;
+    float: left;
     margin:10px 0px 10px 10px;
 }
 #P2 {
@@ -100,7 +100,7 @@
     border: dashed;
     border-color: bisque;
     height: 500px;
-    float: right;
+    float: left;
     margin: 10px;
 }
 ul {
@@ -140,4 +140,7 @@ ul {
 
 #SkillsInfo {
     font-family: 'Marvel', sans-serif;
+}
+p a :visited {
+    color:black;
 }
