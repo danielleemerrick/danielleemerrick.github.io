@@ -83,7 +83,7 @@
     font-family: 'Marvel', sans-serif;
 }
 #P1 {
-    width: 30%;
+    max-width: 30%;
     border: dashed;
     border-color: bisque;
     height: 500px;
@@ -91,4 +91,12 @@
 }
 ul {
     list-style-type:none;
+}
+#Social {
+    font-family: 'Bad Script', cursive;
+    background-color: white;
+}
+
+#SocialInfo {
+    font-family: 'Marvel', sans-serif;
 }
