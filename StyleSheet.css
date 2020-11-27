@@ -27,12 +27,12 @@
     float:left;
     border:2px solid;
     border-color:bisque;
-    padding:0px 0px 0px 10px;
-    margin:10px 0px 0px 10px;
 }
 #Intro {
-    font-family:'Bad Script', cursive;
-    background-color:white;
+    font-family: 'Bad Script', cursive;
+    background-color: white;
+    padding: 0px 0px 0px 10px;
+    margin: 0px 0px 0px 10px;
 }
 #IntroInfo {
     font-family:'Marvel', sans-serif;
@@ -40,6 +40,8 @@
 #Purpose {
     font-family: 'Bad Script', cursive;
     background-color: white;
+    padding: 0px 0px 0px 10px;
+    margin: 10px 0px 0px 10px;
 }
 #PurposeInfo {
     font-family: 'Marvel', sans-serif;
@@ -91,6 +93,14 @@
     height: 500px;
     float: right;
     margin:10px 0px 10px 10px;
+}
+#P2 {
+    max-width: 30%;
+    border: dashed;
+    border-color: bisque;
+    height: 500px;
+    float: right;
+    margin: 10px;
 }
 ul {
     list-style-type:none;
