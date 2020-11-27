@@ -82,19 +82,18 @@
     font-family: 'Bad Script', cursive;
     background-color: white;
     width:20%;
-    text-align:right;
     float:left;
 }
 #ProjectInfo {
     font-family: 'Marvel', sans-serif;
 }
 #P1 {
-    max-width: 75%;
+    width: 75%;
     border: dashed;
     border-color: bisque;
     height: 500px;
     float: left;
-    margin:10px 0px 10px 10px;
+    margin: 10px 0px 10px 0px;
 }
 ul {
     list-style-type:none;
