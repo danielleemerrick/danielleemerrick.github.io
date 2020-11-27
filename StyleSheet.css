@@ -88,7 +88,7 @@
     font-family: 'Marvel', sans-serif;
 }
 #P1 {
-    max-width: 40%;
+    max-width: 37%;
     border: dashed;
     border-color: bisque;
     height: 500px;
@@ -96,7 +96,7 @@
     margin:10px 0px 10px 10px;
 }
 #P2 {
-    max-width: 40%;
+    max-width: 37%;
     border: dashed;
     border-color: bisque;
     height: 500px;
@@ -116,7 +116,7 @@ ul {
     font-family: 'Marvel', sans-serif;
 }
 #SS1 {
-    width: 35%;
+    width: 33%;
     border: dashed;
     border-color: bisque;
     height: 500px;
@@ -124,7 +124,7 @@ ul {
     margin: 10px 10px 10px 0px;
 }
 #SS2 {
-    width: 35%;
+    width: 33%;
     border: dashed;
     border-color: bisque;
     height: 500px;
