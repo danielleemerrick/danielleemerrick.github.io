@@ -81,7 +81,7 @@
 #Project {
     font-family: 'Bad Script', cursive;
     background-color: white;
-    float:right;
+    width:25%;
     text-align:right;
 }
 #ProjectInfo {
@@ -135,7 +135,7 @@ ul {
     font-family: 'Bad Script', cursive;
     background-color: white;
     float: left;
-    width: 30%;
+    width: 33%;
 }
 
 #SkillsInfo {
