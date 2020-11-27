@@ -131,3 +131,13 @@ ul {
     float: left;
     margin: 10px;
 }
+#Skills {
+    font-family: 'Bad Script', cursive;
+    background-color: white;
+    float: left;
+    width: 30%;
+}
+
+#SkillsInfo {
+    font-family: 'Marvel', sans-serif;
+}
