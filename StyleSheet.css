@@ -25,6 +25,8 @@
 #Writing {
     width:50%;
     float:left;
+    border:2px solid;
+    border-color:bisque;
 }
 #Intro {
     font-family:'Bad Script', cursive;
