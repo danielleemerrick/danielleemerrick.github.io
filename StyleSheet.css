@@ -89,20 +89,12 @@
     font-family: 'Marvel', sans-serif;
 }
 #P1 {
-    max-width: 37%;
+    max-width: 75%;
     border: dashed;
     border-color: bisque;
     height: 500px;
     float: left;
     margin:10px 0px 10px 10px;
-}
-#P2 {
-    max-width: 37%;
-    border: dashed;
-    border-color: bisque;
-    height: 500px;
-    float: left;
-    margin: 10px;
 }
 ul {
     list-style-type:none;
@@ -141,7 +133,4 @@ ul {
 
 #SkillsInfo {
     font-family: 'Marvel', sans-serif;
-}
-p a :visited {
-    color:black;
 }
