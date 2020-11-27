@@ -26,7 +26,7 @@
     float:left;
     border:2px solid;
     border-color:bisque;
-    width:45%;
+    width:50%;
 }
 #Intro {
     font-family: 'Bad Script', cursive;
@@ -109,6 +109,8 @@ ul {
 #Social {
     font-family: 'Bad Script', cursive;
     background-color: white;
+    padding: 0px 0px 0px 10px;
+    margin: 0px 0px 0px 10px;
 }
 
 #SocialInfo {
