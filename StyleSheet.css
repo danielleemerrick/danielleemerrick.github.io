@@ -32,7 +32,7 @@
 #Intro {
     font-family: 'Bad Script', cursive;
     background-color: white;
-    padding: 0px 0px 0px 10px;
+    padding: 0px 10px 0px 10px;
     margin: 0px 0px 0px 10px;
 }
 #IntroInfo {
@@ -41,7 +41,7 @@
 #Purpose {
     font-family: 'Bad Script', cursive;
     background-color: white;
-    padding: 0px 0px 0px 10px;
+    padding: 0px 10px 0px 10px;
     margin: 10px 0px 0px 10px;
 }
 #PurposeInfo {
@@ -102,7 +102,7 @@ ul {
 #Social {
     font-family: 'Bad Script', cursive;
     background-color: white;
-    padding: 0px 0px 0px 10px;
+    padding: 0px 10px 0px 10px;
     margin: 0px 0px 0px 10px;
 }
 #SocialInfo {
